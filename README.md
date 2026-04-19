@@ -26,9 +26,6 @@
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
   <a href="https://fedoraproject.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora"/></a>
   <a href="https://www.debian.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian"/></a><br>
-  <a href="https://devdocs.io/npm/"><img width="60" src="https://skillicons.dev/icons?i=npm"/></a>
-  <a href="https://www.instagram.com/_hello_world.exe_"><img width="60" src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://discord.gg/FncVNprdgP"><img width="60" src="https://skillicons.dev/icons?i=discord"/></a><br>
 </div>
 <div align="center"><br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PatoPiratah&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github"/>
