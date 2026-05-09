@@ -28,8 +28,8 @@
   <a href="https://www.debian.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian"/></a><br>
 </div>
 <div align="center"><br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PatoPiratah&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPiratah&layout=compact&langs_count=7&hide_border=true&theme=dark"count_private=true/><br>
+  <img height="170em" src="https://github-readme-stats-one.vercel.app/api?username=PatoPiratah&show_icons=true&theme=dark&cache=1&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=PatoPiratah&layout=compact&langs_count=7&hide_border=true&theme=dark&cache=1&count_private=true"/><br>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:80d010,100:00d000&height=140&section=footer"/>
-</div> 
+ <img width=100% src="https://resocu-capsule-render.vercel.app/api?type=waving&color=0:80d010,100:00d000&height=140&section=footer"/>
+</div>
