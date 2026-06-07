@@ -8,7 +8,7 @@
 </div><br>
 <div align="center">
   <div>
-   <img src="[https://64.media.tumblr.com/5d980cc11a3154d2eb48dd1863f6b45c/tumblr_o0c53lI3NF1skasmxo1_540.gifv](https://camo.githubusercontent.com/cafd6d67b36acbd22292a66ede469d357d091a692853dac2730b67cbdfa18ef5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31336432633735336565643932393039376363313362626231643365343832632f363734343138303033323737363666632d39362f733139323078313038302f666536376636653766656161663638326161383463643032383063626234656564323465396465612e676966)" alt="Mario's Dev" width="600px" >
+   <img src="https://64.media.tumblr.com/5d980cc11a3154d2eb48dd1863f6b45c/tumblr_o0c53lI3NF1skasmxo1_540.gifv" alt="Mario's Dev" width="600px" >
   </div>
 <h1>Greetings, I'm Iuri Fernandes 🦖</h1>
 <h2 align="center">Software Developer | Information Systems Student</h2>
