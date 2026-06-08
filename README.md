@@ -23,8 +23,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://javascript.com/"><img width="60" src="https://skillicons.dev/icons?i=js"/></a>
 <h2> Database & Tools </h2>
-  <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL"/></a><br>
-  <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a></br>
+ <br><a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL"/></a>
+  <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a><br>
   
 <h2> Operating Systems </h2>  
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
