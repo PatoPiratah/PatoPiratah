@@ -53,8 +53,12 @@
     <img src="https://img.shields.io/badge/Instagram-ff6633?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-1b1333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="http://lattes.cnpq.br/0959872418933686" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-264163?style=for-the-badge&logo=bookstack&logoColor=white" alt="Currículo Lattes" />
   </a>
 
   <a href="#" target="_blank">
