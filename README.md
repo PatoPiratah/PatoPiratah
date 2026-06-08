@@ -19,12 +19,13 @@
 <h2> Interfaces & Frameworks </h2>
   <a href="https://www.typescriptlang.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/></a>
   <a href="https://vuejs.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="60" src="https://skillicons.dev/icons?i=html"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://javascript.com/"><img width="60" src="https://skillicons.dev/icons?i=js"/></a>
 <h2> Database & Tools </h2>
   <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL"/></a><br>
-  <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="60" src="https://skillicons.dev/icons?i=html"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a><br>
+  <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a></br>
+  
 <h2> Operating Systems </h2>  
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
   <a href="https://fedoraproject.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora"/></a>
