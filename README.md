@@ -23,7 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://javascript.com/"><img width="60" src="https://skillicons.dev/icons?i=js"/></a>
 <h2> Database & Tools </h2>
- <br><a href="https://www.mysql.com/"> <img width="60" src="https://iconlogovector.com/uploads/images/2024/10/lg-671e36a3d6819-MySQL.webp" alt="MySQL"/></a>
+ <br><a href="https://www.mysql.com/"> <img width="60" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></a>
  <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgree"/></a>
   <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a><br>
   
