@@ -25,7 +25,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a><br>
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
   <a href="https://fedoraproject.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora"/></a>
-  <a href="https://www.debian.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian"/></a><br>
+  <a href="https://www.debian.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian"/></a>
+  <a href="https://archlinux.org/"> <img width="60" src="https://icon-icons.com/icon/arch-linux/132588.svg" alt="Arch"/></a><br>
 </div>
 <div align="center"><br>
   <img height="170em" src="https://github-readme-stats-one.vercel.app/api?username=PatoPiratah&show_icons=true&theme=dark&cache=1&count_private=true"/>
