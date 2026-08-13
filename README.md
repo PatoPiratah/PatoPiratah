@@ -49,10 +49,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-ff3366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.instagram.com/_hello_world.exe_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff6633?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-1b1333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
