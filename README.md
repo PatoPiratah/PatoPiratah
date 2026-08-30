@@ -15,7 +15,13 @@
 <h2> Backend Languages & Frameworks </h2>
   <a href="https://www.oracle.com/java/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></a>
   <a href="https://spring.io/projects/spring-boot"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/></a><br>
-<h2> Interfaces & Frameworks </h2>
+
+<h2> Database & Tools </h2>
+ <br><a href="https://www.mysql.com/"> <img width="60" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></a>
+ <a><img width="60" src="https://github.com/user-attachments/assets/c8362642-d742-4cf6-af1c-1de2c8d8fbd5" alt="UML" /></a>
+ <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgree"/></a>
+  <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a><br>
+  <h2> Interfaces & Frameworks </h2>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="60" src="https://skillicons.dev/icons?i=html"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://javascript.com/"><img width="60" src="https://skillicons.dev/icons?i=js"/></a>
@@ -23,11 +29,6 @@
   <a href="https://www.typescriptlang.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/></a>
   <a href="https://getbootstrap.com//"><img width="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap"/></a>
 <br>
-<h2> Database & Tools </h2>
- <br><a href="https://www.mysql.com/"> <img width="60" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></a>
- <a><img width="60" src="https://github.com/user-attachments/assets/c8362642-d742-4cf6-af1c-1de2c8d8fbd5" alt="UML" /></a>
- <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgree"/></a>
-  <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a><br>
 <h2> Operating Systems </h2>  
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
   <a href="https://fedoraproject.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora"/></a>
