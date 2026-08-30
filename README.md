@@ -25,6 +25,7 @@
 <br>
 <h2> Database & Tools </h2>
  <br><a href="https://www.mysql.com/"> <img width="60" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></a>
+ <a><img width="60" src="https://github.com/user-attachments/assets/c8362642-d742-4cf6-af1c-1de2c8d8fbd5" alt="UML" /></a>
  <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgree"/></a>
   <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a><br>
 <h2> Operating Systems </h2>  
