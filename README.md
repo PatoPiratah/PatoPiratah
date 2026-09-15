@@ -9,27 +9,27 @@
   </div>
 
   <h1>Greetings, I'm Iuri Fernandes 🍄 </h1>
-  <h2>Junior Software Developer | FullStack Development | Linux Enthusiast </h2>
+  <h2> Software Engineering | Systems Architecture | Backend & AI Enthusiast </h2>
   <h2> Building robust solutions since 2024...</h2>
 
 <h2> Backend Languages & Frameworks </h2>
   <a href="https://www.oracle.com/java/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/></a><br>
+  <a href="https://spring.io/projects/spring-boot"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/></a>
+  <a href="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg"><img width="60" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C Language"</a>
+    <a href="https://www.python.org/community/logos/"><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Python"</a>
+  <br>
 
 <h2> Database & Tools </h2>
  <br><a href="https://www.mysql.com/"> <img width="60" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></a>
  <a><img width="60" src="https://github.com/user-attachments/assets/c8362642-d742-4cf6-af1c-1de2c8d8fbd5" alt="UML" /></a>
  <a href="https://www.postgresql.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgree"/></a>
   <a href="https://git-scm.com/"><img width="60" src="https://skillicons.dev/icons?i=git"/></a><br>
-  <h2> Interfaces & Frameworks </h2>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="60" src="https://skillicons.dev/icons?i=html"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img width="60" src="https://skillicons.dev/icons?i=css"/></a>
+  <h3> Interfaces & Frameworks </h3>
   <a href="https://javascript.com/"><img width="60" src="https://skillicons.dev/icons?i=js"/></a>
   <a href="https://vuejs.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue"/></a>
   <a href="https://www.typescriptlang.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/></a>
-  <a href="https://getbootstrap.com//"><img width="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap"/></a>
 <br>
-<h2> Operating Systems </h2>  
+<h3> Operating Systems </h3>  
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img width="60" src="https://skillicons.dev/icons?i=windows"/></a>
   <a href="https://fedoraproject.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora"/></a>
   <a href="https://www.debian.org/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian"/></a>
