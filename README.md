@@ -13,9 +13,9 @@
   <h3><i>Information Systems student (9th period) passionate about Systems Architecture, Backend Engineering, and Artificial Intelligence. Currently focusing on building scalable solutions and deepening my expertise in machine learning and system performance using Java, Python, and C. Building robust solutions since 2024...</i></h3>
 
 <h2> Backend Languages & Frameworks </h2>
-  <a href="https://www.oracle.com/java/"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></a>
+  <a href="https://www.oracle.com/java/"><img width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></a>
   <a href="https://spring.io/projects/spring-boot"><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/></a>
-  <a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201031132917"><img width="60" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C Language"/></a>
+  <a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201031132917"><img width="70" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C Language"/></a>
     <a href="https://www.python.org/community/logos/"><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Python"/></a>
   <br>
 
